@@ -3,10 +3,11 @@
 Simple Solidity project demonstrating basic contract functions and unit testing.
 
 ## 📁 Structure
+```text
 .
 ├── HelloWorld.sol
 └── tests/
-└── HelloWorld_test.sol
+    └── HelloWorld_test.sol
 
 
 ## 📜 Contract
