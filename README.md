@@ -2,14 +2,14 @@
 
 Simple Solidity project demonstrating basic contract functions and unit testing.
 
-## 📁 Structure
+## Structure
 
 - HelloWorld.sol  
 - tests/
   - HelloWorld_test.sol
 
 
-## 📜 Contract
+## Contract
 
 The contract stores a `name` and provides three functions:
 
@@ -24,7 +24,7 @@ The contract stores a `name` and provides three functions:
 
 ---
 
-## 🧪 Tests
+## Tests
 
 Tests are written in Solidity and verify:
 
@@ -34,14 +34,14 @@ Tests are written in Solidity and verify:
 
 ---
 
-## ⚙️ Solidity Version
+## Solidity Version
 
 pragma solidity 0.8.34;
 
 
 ---
 
-## 📌 Notes
+## Notes
 
 This is a beginner practice project for learning:
 
